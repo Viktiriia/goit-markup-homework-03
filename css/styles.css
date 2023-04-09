@@ -126,6 +126,7 @@ body {
   letter-spacing: 0.02em;
   margin: 0 auto;
   max-width: 496px;
+  margin-bottom: 48px;
   text-align: center;
   color: var(--background-color);
 }
